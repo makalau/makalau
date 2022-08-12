@@ -1,8 +1,8 @@
 ## Olá! Sejam bem vindos ao meu perfil no github! :D
-<hr>
+
 - 🌱 Atualmente estou estudando React e CyberSecurity. 👩🏻‍💻🕵🏻‍♂️☣️
 
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center" style="display: flex">
   <a href="https://github.com/makalau">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=makalau&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makalau&layout=compact&langs_count=7&theme=dark"/>
