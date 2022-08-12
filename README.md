@@ -16,7 +16,8 @@
   <img align="center" alt="Makalau-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <a href="https://www.linkedin.com/in/marcelo-victor-9a885315b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div><br>
- ##
+
+  
 
 
 
