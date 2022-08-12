@@ -1,4 +1,5 @@
 ## Olá! Sejam bem vindos ao meu perfil no github! :D
+<hr>
 - 🌱 Atualmente estou estudando React e CyberSecurity. 👩🏻‍💻🕵🏻‍♂️☣️
 
 <div align="center">
@@ -14,7 +15,6 @@
   <img align="center" alt="Makalau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Makalau-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-  ##
 <div> 
   <a href="https://www.linkedin.com/in/marcelo-victor-9a885315b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
